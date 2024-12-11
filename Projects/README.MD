@@ -71,8 +71,6 @@ Each lecture builds upon the previous one, resulting in practical projects that 
      ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)  
      ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)  
      ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)  
-   - **Upload Date:**  
-     📅 **Friday, 13th December 2024**
    - **Key Features:**  
      - User authentication and authorization  
      - CRUD operations for blog posts  
@@ -88,8 +86,6 @@ Each lecture builds upon the previous one, resulting in practical projects that 
      ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)  
      ![Sessions](https://img.shields.io/badge/-Sessions-333333?style=flat)  
      ![Cookies](https://img.shields.io/badge/-Cookies-333333?style=flat)  
-   - **Upload Date:**  
-     📅 **Monday, 16th December 2024**
    - **Key Features:**  
      - User registration and login  
      - Secure password hashing  
@@ -106,9 +102,6 @@ Each lecture builds upon the previous one, resulting in practical projects that 
      ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)  
      ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)  
      ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)  
-     ![Payment Gateway](https://img.shields.io/badge/-Payment%20Gateway-blue)  
-   - **Upload Date:**  
-     📅 **Friday, 20th December 2024**
    - **Key Features:**  
      - Product catalog browsing  
      - Shopping cart functionality  

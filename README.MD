@@ -22,9 +22,9 @@ This repository is structured to make learning intuitive and effective:
 
 - **Projects**: A new directory added under the root to contain all the real-world project files and documentation. This folder includes:
   - **README.md**: The file includes details of each project, along with the upload date for each project:
-    - **Project 1**: Blog Application (Uploaded on Friday, 13th December 2024)
-    - **Project 2**: User Authentication System (Uploaded on Monday, 16th December 2024)
-    - **Project 3**: E-Commerce Store (Uploaded on Friday, 20th December 2024)
+    - **Project 1**: Blog Application 
+    - **Project 2**: User Authentication System
+    - **Project 3**: E-Commerce Store 
 
 - **README.md**: The documentation file for the repository that outlines the structure and includes important information about the course and projects.
 
