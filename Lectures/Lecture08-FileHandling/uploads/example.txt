@@ -1,0 +1,10 @@
+Welcome to the PHP File Handling Course!
+
+This is an example file used to demonstrate various file handling techniques in PHP.
+In this course, you'll learn how to:
+- Read data from files
+- Write and append data to files
+- Check if a file exists and delete files
+- Handle file uploads securely
+
+Remember to always validate file types and sizes when uploading files to ensure security.

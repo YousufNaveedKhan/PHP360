@@ -1,0 +1,4 @@
+[06-Dec-2024 15:48:57 Europe/Berlin] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in E:\xampp\htdocs\PHP360\Lecture11-ErrorandExceptionHandling\errorLogging.php:7
+Stack trace:
+#0 {main}
+  thrown in E:\xampp\htdocs\PHP360\Lecture11-ErrorandExceptionHandling\errorLogging.php on line 7
